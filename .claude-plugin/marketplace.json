@@ -1,0 +1,32 @@
+{
+  "name": "create-viral-content-marketplace",
+  "owner": {
+    "name": "Ice-ninja"
+  },
+  "description": "Transform technical concepts into viral social content with integrated humanization. Creates Reddit posts, Twitter threads, LinkedIn content, YouTube comments, and more with viral mechanics that spread.",
+  "plugins": [
+    {
+      "name": "create-viral-content",
+      "source": "./",
+      "description": "Transform technical concepts into viral social content",
+      "version": "2.1.0",
+      "author": {
+        "name": "Ice-ninja"
+      },
+      "license": "MIT",
+      "keywords": [
+        "viral-content",
+        "social-media",
+        "content-creation",
+        "reddit",
+        "twitter",
+        "linkedin",
+        "youtube",
+        "humanization",
+        "ai-tells",
+        "engagement"
+      ],
+      "strict": false
+    }
+  ]
+}
