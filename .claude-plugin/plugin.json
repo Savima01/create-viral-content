@@ -1,0 +1,8 @@
+{
+    "name": "create-viral-content",
+    "version": "1.0.0",
+    "description": "Transform technical concepts into viral social content with integrated humanization. Creates Reddit posts, Twitter threads, LinkedIn content, YouTube comments, and more with viral mechanics that spread.",
+    "author": "Ice-ninja",
+    "license": "MIT",
+    "skillsDir": "skills"
+}
