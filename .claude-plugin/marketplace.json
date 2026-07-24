@@ -10,7 +10,7 @@
       "name": "create-viral-content",
       "source": "./",
       "description": "Transform technical concepts into viral social content",
-      "version": "2.1.1",
+      "version": "1.0.0",
       "author": {
         "name": "Ice-ninja"
       },
